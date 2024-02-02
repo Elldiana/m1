@@ -52,7 +52,7 @@ result = dimdi - ais
 az= datetime(2015,12,9)
 result = dimdi - az
 
-# result = dimdi + timedelta(days = 10) # 10 gün ekledik
+# result = dimdi + timedelta(days = 10) # 10 gün ekledik neden???
 
 
 
